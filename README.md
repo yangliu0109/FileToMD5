@@ -7,6 +7,7 @@
 
 # 目录说明
 ```shell
+├─doc                 // 项目使用到的文档
 ├─img                 // readme依赖的截图
 ├─programme           // 可执行的EXE程序
 └─swing_generate_md5  // 项目源码
