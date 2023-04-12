@@ -17,6 +17,6 @@
 
 # 截图
 
-<img src="./img/img1.png">
-<img src="./img/img2.png">
-<img src="./img/img3.png">
+<img src="./img/img.png">
+<img src="./img/img_1.png">
+<img src="./img/img_2.png">
